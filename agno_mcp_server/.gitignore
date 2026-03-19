@@ -1,0 +1,3 @@
+# Specific rules for agno_mcp_server
+agno_venv/
+agno_mcp_venv/
